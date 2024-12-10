@@ -34,7 +34,7 @@ Set Up the Database:
 Run the Project:
 
 - Start your local PHP server using XAMPP, WAMP, or any other tool.
--  Access the project in your browser at http://localhost/<project-folder>/home.php.
+-  Access the project in your browser at [http://localhost/<project-folder>/home.php.](http://localhost/<project-folder>/home.php)
 
 Usage
 
